@@ -23,10 +23,8 @@ The main work lives under [`Wipro`](./Wipro) and is split into two broad areas:
   - SOLID principles implementation
   - design patterns demo
   - shared test project
-  - see [`Wipro/Assignment/Day 12/README.md`](./Wipro/Assignment/Day%2012/README.md)
 - `Wipro/Assignment/Day 16`
   - MongoDB retail catalog sample data, indexes, and query scripts
-  - see [`Wipro/Assignment/Day 16/README.md`](./Wipro/Assignment/Day%2016/README.md)
 - `Wipro/Assignment/Day 18`
   - Online Movie Catalog (C# Web API) with CRUD for Movies and Directors
 - `Wipro/Assignment/Day 20`
@@ -44,10 +42,8 @@ The main work lives under [`Wipro`](./Wipro) and is split into two broad areas:
 
 - `Wipro/Practice Project (Capstone)/Ecommerce-Application`
   - ASP.NET Core MVC e-commerce application with authentication, admin area, and EF Core
-  - see [`Wipro/Practice Project (Capstone)/Ecommerce-Application/README.md`](./Wipro/Practice%20Project%20(Capstone)/Ecommerce-Application/README.md)
 - `Wipro/Practice Project (Capstone)/NEXMART`
   - .NET Web API backend, SQL Server integration, frontend UI, and tests
-  - see [`Wipro/Practice Project (Capstone)/NEXMART/README.md`](./Wipro/Practice%20Project%20(Capstone)/NEXMART/README.md)
 
 ## Technologies Used
 
