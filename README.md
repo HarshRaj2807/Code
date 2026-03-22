@@ -31,12 +31,16 @@ The main work lives under [`Wipro`](./Wipro) and is split into two broad areas:
   - Online Book Store (C# Web API) with clean architecture and EF Core
 - `Wipro/Assignment/Day 24`
   - Contact Manager (TypeScript) logic and testing
+- `Wipro/Assignment/Day 25`
+  - Book Management REST API (Node.js/Express) with CRUD and event logging
 - `Wipro/Assignment/Day 27`
   - Modular Node.js/Express REST APIs (Books and LMS)
 - `Wipro/Assignment/Day 31`
   - EduLearn Course Management (Angular SPA) with Property/Event/Two-Way Bindings
 - `Wipro/Assignment/Day 35`
   - Event Management Portal (Angular SPA) with custom pipes, directives, and animations
+- `Wipro/Assignment/Day 40`
+  - BookStore Pro (Angular) demonstrating Observables, Interceptors, and custom pipes
 
 ### Practice Projects
 
@@ -85,9 +89,11 @@ If you are browsing this repository on GitHub, these are the best places to star
 - [`Wipro/Assignment/Day 10/W2Day5AssignmentSolution/README.md`](./Wipro/Assignment/Day%2010/W2Day5AssignmentSolution/README.md)
 - [`Wipro/Assignment/Day 12/README.md`](./Wipro/Assignment/Day%2012/README.md)
 - [`Wipro/Assignment/Day 16/README.md`](./Wipro/Assignment/Day%2016/README.md)
+- [`Wipro/Assignment/Day 25/book-api/README.md`](./Wipro/Assignment/Day%2025/book-api/README.md)
 - [`Wipro/Assignment/Day 27/question 2/README.md`](./Wipro/Assignment/Day%2027/question%202/README.md)
 - [`Wipro/Assignment/Day 31/edulearn-app/README.md`](./Wipro/Assignment/Day%2031/edulearn-app/README.md)
 - [`Wipro/Assignment/Day 35/event-manager-app/README.md`](./Wipro/Assignment/Day%2035/event-manager-app/README.md)
+- [`Wipro/Assignment/Day 40/bookstore-pro/README.md`](./Wipro/Assignment/Day%2040/bookstore-pro/README.md)
 - [`Wipro/Practice Project (Capstone)/Ecommerce-Application/README.md`](./Wipro/Practice%20Project%20(Capstone)/Ecommerce-Application/README.md)
 - [`Wipro/Practice Project (Capstone)/NEXMART/README.md`](./Wipro/Practice%20Project%20(Capstone)/NEXMART/README.md)
 
